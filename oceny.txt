@@ -1,0 +1,4 @@
+Jan Kowalski | Programowanie | ocena: 4
+Kacper Stanik | Programowanie | ocena: 1
+Krystian Zawadzki | Programowanie | ocena: 6
+Bartosz Gregorczk | Programowanie | ocena: 1
